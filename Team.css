@@ -1,0 +1,64 @@
+.heroStandard {
+   height: 70%;
+}
+
+.profileContainer {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.profileCard {
+  width: 100%;
+  margin-bottom: 15px;
+  display: inline-block;
+}
+
+.profileCardImage {
+text-align: center;
+ float: left;	
+}
+.profileCardImage img {
+border-radius: 6px;
+}
+
+.profileCardText {
+  float: right;	
+  border-radius: 6px;
+  border: 1px solid grey;
+}
+
+.profileCardImage,
+.profileCardText {
+  width: 50%;
+  box-sizing: border-box;
+}
+
+
+.profileCardText h1 {
+	font-size: 36px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.profileCardText p {
+ font-size: 24px;	
+ margin-left: 15px;
+	margin-right: 15px;
+}
+
+.backgroundLayer {
+ opacity: 0.5;	
+}
+
+.headerContainer {
+  text-align: center;	
+}
+
+.headerContainer h1 {
+	font-size: 65px;
+	font-weight: normal;
+}
+
+.headerContainer p {
+   font-size: 20px;	
+}

@@ -1,0 +1,32 @@
+.chartHeader h1 {
+   font-size: 64px;
+}
+
+.chartHeader p {
+    font-size: 24px;
+}
+
+.composition {
+	float: right;
+	width: 45%;
+}
+
+.row {
+ display: inline-block;	
+ width: 100%;
+}
+
+.clearfix {
+	justify-content: center;
+}
+
+.chart {
+height: 100%; 
+width: 50%; 
+float: left;
+}
+
+.buttonContainer {
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
